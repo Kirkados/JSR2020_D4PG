@@ -7,6 +7,6 @@ To run, optionally modify settings in environment_envs123456.py and settings.py.
 
 Deep reinforcement learning is used to train a neural network to output velocity commands for a spacecraft to track using a conventional controller. This "deep guidance" technique is a possible solution to the simulation-to-reality problem. The task-solving ability of deep reinforcement learning is harnessed along with the ability of conventional control to perform well under model uncertainty.
 
-A video showing simulated and experimental results can be found here: www.youtube.com
+A video showing simulated and experimental results can be found here: https://youtu.be/n7K6aC5v0aY
 
 Feel free to contact me if you have any questions! khovell@gmail.com
