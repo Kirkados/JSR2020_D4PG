@@ -10,7 +10,7 @@ Spacecraft Proximity Operations Guidance"
 The task is currently setup to have a chaser spacecraft track a rotating 
 target while avoiding and obstacle.
 
-@author: Kirk Hovell (khovell@gmail.com)
+@author: Kirk Hovell
 """
 import numpy as np
 import os
